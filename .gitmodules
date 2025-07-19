@@ -1,0 +1,3 @@
+[submodule "library"]
+	path = library
+	url = https://github.com/Kenneth-Goveas/KiCad-Libraries.git
