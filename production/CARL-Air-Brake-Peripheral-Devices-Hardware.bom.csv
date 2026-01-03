@@ -1,0 +1,23 @@
+Serial,Reference,Manufacturer,Part,Description,Quantity
+1,R8,Yageo,AC0603FR-0768RL,Resistor 68Ohm 100mW 1% 0603,1
+2,R9 R11,Yageo,RC0603FR-10150RL,Resistor 150Ohm 100mW 1% 0603,2
+3,R10,Yageo,RC0603FR-07200RL,Resistor 200Ohm 100mW 1% 0603,1
+4,R1 R2,Yageo,RT0603DRE07430RL,Resistor 430Ohm 100mW 0.5% 0603,2
+5,R3 R4 R5 R6 R7,Yageo,RT0603FRE1310KL,Resistor 10kOhm 100mW 1% 0603,5
+6,C7 C8,Murata,GRM1885C1H300GA01D,Capacitor 30pF 50V 2% 0603,2
+7,C2 C3 C6,Murata,GCM188R71C104JA37D,Capacitor 0.1uF 16V 5% 0603,3
+8,C1 C4 C5,Murata,GRT188R61C106KE13J,Capacitor 10uF 16V 10% 0603,3
+9,D1 D2 D3,Diotec,SK84-AQ,Diode Schottky 0.55V @ 8A DO-214AB/SMC,3
+10,D4 D5,Ams Osram,LW Q38G-Q1OO-3K6L-1,LED White 2.85V @ 5mA 0603,2
+11,D6 D7 D8 D9,Wuerth,150060AS75000,LED Amber 2V @ 20mA 0603,4
+12,Q1 Q2,Onsemi,BSS138,Logic Level Shift Transistor,2
+13,Y1,ECS,ECS-160-20-5PX-TR,Crystal 16Mhz 20pF HC49-US,1
+14,J1,Adam Tech,PH2-06-UA,Pin Header 2x3,1
+15,J2,Wuerth,629105136821,Micro USB Receptacle,1
+16,J3,Assmann WSW,A-BL254-DG-Z40D,Socket Header 2x20,1
+17,J4,Assmann WSW,A-BL254-DG-Z04D,Socket Header 2x2,1
+18,J5,Wuerth,61300311121,Pin Header 1x3,1
+19,U1,FTDI,FT232RNL-REEL,USB-UART Bridge,1
+20,U2,Microchip,ATmega328P-AU,8-Bit AVR Microcontroller,1
+21,P1 P2,Adafruit,3966,BMP388 Module,2
+22,P3 P4,Adafruit,4646,BNO055 Module,2
